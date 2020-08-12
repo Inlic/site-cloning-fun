@@ -1,0 +1,7 @@
+* {
+  outline: 1px solid red;
+}
+
+.shadow {
+  text-shadow: 1px 1px black;
+}
