@@ -5,3 +5,25 @@
 .shadow {
   text-shadow: 1px 1px black;
 }
+
+
+#jumboCarousel .carousel-caption{
+  top: 50%;
+  transform: translateY(-50%);
+  bottom: initial;
+}
+
+#jumboCarousel .carousel-indicators{
+  top: 55%;
+  transform: translateY(-50%);
+  transform: translateX(-38%);
+  bottom: initial;
+}
+
+{
+  width: 0;
+	height: 0;
+	border-top: 25px solid transparent;
+	border-left: 50px solid #555;
+	border-bottom: 25px solid transparent;
+}
