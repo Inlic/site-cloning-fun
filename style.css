@@ -1,9 +1,15 @@
-/* * {
+ * {
   outline: 1px solid red;
-}  */
+}
 
 .shadow {
   text-shadow: 1px 1px black;
+}
+
+#jumbotron{
+  background-color: #413c41;
+  color: white;
+  border-top: 10px solid white;
 }
 
 #jumboCarousel img {
